@@ -1,0 +1,23 @@
+# Bienvenidos a mi Blog 🥾🌿
+
+¡Hola! Soy Max. Soy biólogo e investigador, pero sobre todo, un apasionado por entender cómo funciona la vida en los ecosistemas más extremos.
+
+## 🏔️ De los Andes para el Mundo
+Mi aventura comenzó en la **Universidad Nacional del Altiplano**, donde descubrí mi fascinación por las interacciones biológicas y la ecología de perturbaciones utilizando comunidades vegetales. Desde entonces, mi trayectoria me ha llevado a:
+
+* **Texas, USA:** Investigando el funcionamiento de los ecosistemas biológicos *The Wolf Lab*.
+* **Marburg, Alemania (virtual):** Sumergiéndome en la ecoinformática y los datos neotropicales.
+* **Puno, Perú:** Conservando semillas que son el futuro de nuestra biodiversidad y estudiando incendios.
+
+## 📸 Crónicas de Campo
+*(Próximamente: Aquí subiré fotos y relatos de mis salidas de campo y publicaciones)*
+
+---
+
+## 🎓 Trayectoria en breve
+Si estás aquí por mi perfil profesional, puedes ver mis hitos principales:
+- **Investigador Visitante** - UT Austin (2025)
+- **Asistente de Investigación** - Proyecto CONTINENT (2026)
+
+---
+> "La ciencia no solo se hace en el laboratorio, se vive en cada paso del camino."
