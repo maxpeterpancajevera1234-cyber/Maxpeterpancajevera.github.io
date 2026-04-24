@@ -1,7 +1,11 @@
 ---
 layout: default
-title: Trayectoria
-nav_order: 4
+title: Proyectos
 ---
-# Mi Trayectoria
-Desde mi formación en la UNA Puno hasta mis estancias internacionales...
+
+[Inicio](./) | [Trayectoria](./trayectoria) | [Proyectos](./proyectos) | [Publicaciones](./publicaciones)
+
+---
+
+# Mis Proyectos
+Aquí relataré mis investigaciones sobre ecología de fuego...
