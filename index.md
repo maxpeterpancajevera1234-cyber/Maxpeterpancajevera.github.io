@@ -1,4 +1,15 @@
+
+
 # Max Peter Panca jevera (BioMax1.0) 🥾🌿
+
+---
+layout: default
+title: Inicio
+---
+
+[Inicio](./) | [Trayectoria](./trayectoria) | [Proyectos](./proyectos) | [Publicaciones](./publicaciones)
+
+---
 
 ¡Hola! Soy Max Peter Panca Jevera. Soy biólogo e investigador, pero sobre todo, un apasionado por entender cómo funciona la vida en los ecosistemas más extremos.
 ![Un poco sobre mi!](landscape.jpg)
