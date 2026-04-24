@@ -6,3 +6,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
+
+### Mis redes y contacto:
+[🔗 LinkedIn](https://www.linkedin.com/in/max-peter-panca-jevera-0631b5211/) | [✉️ Correo](maxpeterpancajevera1234@gmail.com) | [📚 ResearchGate](https://www.researchgate.net/profile/Max_Peter_Panca_Jevera?ev=hdr_xprf)
