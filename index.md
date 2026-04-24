@@ -1,6 +1,8 @@
 # Max Peter Panca jevera (BioMax1.0) 🥾🌿
 
 ¡Hola! Soy Max Peter Panca Jevera. Soy biólogo e investigador, pero sobre todo, un apasionado por entender cómo funciona la vida en los ecosistemas más extremos.
+![Un poco sobre mi!](landscape.jpg)
+
 
 ## 🏔️ De los Andes para el Mundo
 Mi aventura comenzó en la **Universidad Nacional del Altiplano**, donde descubrí mi fascinación por las interacciones biológicas y la ecología de perturbaciones utilizando comunidades vegetales. Desde entonces, mi trayectoria me ha llevado a:
