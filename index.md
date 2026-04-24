@@ -21,3 +21,6 @@ Si estás aquí por mi perfil profesional, puedes ver mis hitos principales:
 
 ---
 > "La ciencia no solo se hace en el laboratorio, se vive en cada paso del camino."
+
+### Mis redes y contacto:
+[🔗 LinkedIn](https://www.linkedin.com/in/max-peter-panca-jevera-0631b5211/) | [✉️ Correo](maxpeterpancajevera1234@gmail.com) | [📚 ResearchGate](https://www.researchgate.net/profile/Max_Peter_Panca_Jevera?ev=hdr_xprf)
