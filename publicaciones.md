@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Publicaciones
-nav_order: 3
+title: Proyectos
+---
+
+[Inicio](./) | [Trayectoria](./trayectoria) | [Proyectos](./proyectos) | [Publicaciones](./publicaciones)
+
 ---
 # Mis Publicaciones
 Listado de contribuciones científicas...
