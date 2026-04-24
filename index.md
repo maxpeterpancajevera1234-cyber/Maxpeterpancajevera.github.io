@@ -2,10 +2,6 @@
 
 # Max Peter Panca jevera (BioMax1.0) 🥾🌿
 
----
-layout: default
-title: Inicio
----
 
 [Inicio](./) | [Trayectoria](./trayectoria) | [Proyectos](./proyectos) | [Publicaciones](./publicaciones)
 
